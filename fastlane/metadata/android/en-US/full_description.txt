@@ -1,0 +1,13 @@
+Blokish8 is an open-source Android implementation of the classic board game Blokus. Play against the machine with four AI difficulty levels, or disable AI for a human-only game.
+
+Enjoy smooth drag & drop controls and touch-friendly piece rotation. The game preserves your progress automatically and restores your current game on next startup. The last piece played is highlighted for easier tracking, and the layout adapts well to larger screens.
+
+Features:
+- Open-source and free to use under GPLv3
+- Offline play with no intrusive banner ads
+- AI opponent with configurable difficulty
+- Drag & drop piece placement and long-press flipping
+- Save and resume games automatically
+- Tablet-friendly layout and responsive controls
+
+Perfect for fans of polyomino board games, Blokus, and strategy puzzles.

@@ -1,0 +1,1 @@
+Smooth Blokus-style strategy board game with drag & drop controls, AI opponents, offline play, and open-source code.

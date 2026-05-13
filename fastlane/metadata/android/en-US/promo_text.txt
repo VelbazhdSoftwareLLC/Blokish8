@@ -1,0 +1,1 @@
+Play Blokish8 offline with polished drag & drop controls, configurable AI, and open-source gameplay inspired by Blokus.

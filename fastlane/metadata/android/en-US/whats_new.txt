@@ -1,0 +1,1 @@
+Updated metadata and Android Studio compatibility. Fixed compatibility issues and improved stability for modern Android devices.
